@@ -4,7 +4,7 @@
 
 ---
 
-[ChineseResume](README.md)|EnglishResume|[多页简历](MultiResume.md)|[简历封面](ResumeCover.md)|[信息表格](TableResume.md)
+[ChineseResume](README.md)|EnglishResume|[Multi-page Resume](MultiResume.md)|[ResumeCover](ResumeCover.md)|[InformationForm](TableResume.md)
 
 
 ---

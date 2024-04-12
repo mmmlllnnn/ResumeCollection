@@ -1,20 +1,20 @@
-
 <div align="center">
-<h1>💻 ResumeCollection 🔥</h1>
+<h1>💻 简历收集 🔥</h1>
 
 ---
 
-中文简历|[EnglishResume]|[EnglishResume](README_en.md)|多页简历|[简历封面](ResumeCover.md)|[信息表格](TableResume.md)
-
+[中文简历](README.md)|[EnglishResume](README_en.md)|多页简历|[简历封面](MultiResume.md)|[信息表格](TableResume.md)
 
 ---
+
+收集全网的中英文简历，总有一款适合你。
 
 Resume collection from all over the Internet, there will be one that suits you.
 
 <p align="center">
-Covering a variety of styles and resume templates from all walks of life, they are collected from the Internet and shared for free.
+涵盖多种风格，各行各业的简历模板，收集自网络，免费分享。
 <br></p>
-If compatibility issues occur, please modify file name.<br>
+若出现兼容性问题，请自行修改后缀名<br>
 docx<=>doc
 
 
