@@ -3,7 +3,7 @@
 
 ---
 
-[中文简历](README.md)|[EnglishResume](README_en.md)|多页简历|[简历封面](MultiResume.md)|[信息表格](TableResume.md)
+[中文简历](README.md)|[EnglishResume](README_en.md)|多页简历|[简历封面](ResumeCover.md)|[信息表格](TableResume.md)
 
 ---
 
