@@ -1,5 +1,7 @@
 <div align="center">
-<h1>🧑简历收集🧑</h1>
+<h1>💻简历收集🔥</h1>
+
+---
 
 中文简历|[EnglishResume](README_en.md)|[多页简历]()|[简历封面]()|[信息表格]()
 

@@ -1,6 +1,8 @@
 
 <div align="center">
-<h1>🧑ResumeCollection🧑</h1>
+<h1>💻ResumeCollection🔥</h1>
+
+---
 
 [ChineseResume](README.md)|EnglishResume|[multi_page resume]()|[Resume cover]()|[Information form]()
 
