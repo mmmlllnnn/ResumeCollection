@@ -19,8 +19,8 @@ docx<=>doc
 
 
 [![GitHub stars](https://img.shields.io/github/stars/mmmlllnnn/ResumeCollection.svg?style=popout-square)](https://github.com/mmmlllnnn/ResumeCollection)
-[![GitHub forks](https://img.shields.io/github/forks/mmmlllnnn/ResumeCollection.svg?)](https://github.com//mmmlllnnn/ResumeCollection)
-[![GitHub license](https://img.shields.io/github/license/mmmlllnnn/ResumeCollection.svg)](https://github.com/mmmlllnnn/ResumeCollection)
+[![GitHub forks](https://img.shields.io/github/forks/mmmlllnnn/ResumeCollection.svg)](https://github.com//mmmlllnnn/ResumeCollection)
+[![GitHub license](https://img.shields.io/github/license/mmmlllnnn/ResumeCollection)](https://github.com/mmmlllnnn/ResumeCollection)
 [![GitHub repo size](https://img.shields.io/github/repo-size/mmmlllnnn/ResumeCollection.svg)](https://github.com/mmmlllnnn/ResumeCollection)
 [![GitHub last commit](https://img.shields.io/github/last-commit/mmmlllnnn/ResumeCollection.svg)](https://github.com/mmmlllnnn/ResumeCollection)
 <br>
