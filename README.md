@@ -1,5 +1,5 @@
 <div align="center">
-<h1>💻简历收集🔥</h1>
+<h1>💻 简历收集 🔥</h1>
 
 ---
 
@@ -14,7 +14,8 @@ Resume collection from all over the Internet, there will be one that suits you.
 <p align="center">
 涵盖多种风格，各行各业的简历模板，收集自网络，免费分享。
 <br></p>
-若出现兼容性问题，请自行修改后缀名.docx<=>.doc
+若出现兼容性问题，请自行修改后缀名<br>
+docx<=>doc
 
 [![GitHub stars](https://img.shields.io/github/stars/mmmlllnnn/ResumeCollection.svg?style=popout-square)](https://github.com/mmmlllnnn/ResumeCollection)
 [![GitHub forks](https://img.shields.io/github/forks/mmmlllnnn/ResumeCollection.svg?)](https://github.com//mmmlllnnn/ResumeCollection)

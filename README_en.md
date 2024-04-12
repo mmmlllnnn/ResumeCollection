@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1>💻ResumeCollection🔥</h1>
+<h1>💻 ResumeCollection 🔥</h1>
 
 ---
 
