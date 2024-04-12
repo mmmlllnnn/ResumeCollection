@@ -10,9 +10,9 @@ Resume collection from all over the Internet, there will be one that suits you.
 ---
 <p align="center">
 涵盖多种风格，各行各业的简历模板，收集自网络，免费分享。
-<br>若出现兼容性问题，请自行修改后缀名.docx<==>.doc</p>
+<br></p>
+若出现兼容性问题，请自行修改后缀名.docx<=>.doc
 
-</p>
 
 [![GitHub stars](https://img.shields.io/github/stars/mmmlllnnn/ResumeCollection.svg?style=popout-square)](https://github.com/mmmlllnnn/ResumeCollection)
 [![GitHub forks](https://img.shields.io/github/forks/mmmlllnnn/ResumeCollection.svg?)](https://github.com//mmmlllnnn/ResumeCollection)
@@ -28,5 +28,5 @@ Resume collection from all over the Internet, there will be one that suits you.
 
 | 简历预览 | 下载 | 简历预览 | 下载 |
 | ----- | ----- | ----- | ----- | 
-|非常好用的免费简历模板![001](./1.中文简历/001/001.jpg)|[001](./1.中文简历/001/)|简约风求职简历模板![002](./1.中文简历/002/002.jpg)|[002](./1.中文简历/002/)| 
-|应届毕业生免费简历模板![003](./1.中文简历/003/003.jpg)|[003](./1.中文简历/003/)|砖红色通用免费简历模板![004](./1.中文简历/004/004.jpg)|[004](./1.中文简历/004/)|  
+|<font style='text-align: center' color=green>非常好用的免费简历模板</font>![001](./1.中文简历/001/001.jpg)|[001](./1.中文简历/001/)|<font color=green>简约风求职简历模板</font>![002](./1.中文简历/002/002.jpg)|[002](./1.中文简历/002/)| 
+|<font color=red>应届毕业生免费简历模板</font>![003](./1.中文简历/003/003.jpg)|[003](./1.中文简历/003/)|<font color=green>砖红色通用免费简历模板</font>![004](./1.中文简历/004/004.jpg)|[004](./1.中文简历/004/)|  
