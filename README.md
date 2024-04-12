@@ -1,5 +1,7 @@
 <div align="center">
-<h1>🧑‍✈️简历收集🧑</h1>
+<h1>🧑简历收集🧑</h1>
+
+中文简历|[EnglishResume](README_en.md)|[多页简历]()|[简历封面]()|[信息表格]()
 
 ---
 
@@ -7,14 +9,10 @@
 
 Resume collection from all over the Internet, there will be one that suits you.
 
-中文简历|[EnglishResume]()|[多页简历]()|[简历封面]()|[信息表格]()
-
-
 <p align="center">
 涵盖多种风格，各行各业的简历模板，收集自网络，免费分享。
 <br></p>
 若出现兼容性问题，请自行修改后缀名.docx<=>.doc
-
 
 [![GitHub stars](https://img.shields.io/github/stars/mmmlllnnn/ResumeCollection.svg?style=popout-square)](https://github.com/mmmlllnnn/ResumeCollection)
 [![GitHub forks](https://img.shields.io/github/forks/mmmlllnnn/ResumeCollection.svg?)](https://github.com//mmmlllnnn/ResumeCollection)
@@ -27,6 +25,7 @@ Resume collection from all over the Internet, there will be one that suits you.
 ---
 
 <br>
+</div>
 
 | 简历预览 | 下载 | 简历预览 | 下载 |
 |:---------|:------|:---------|:------| 
