@@ -1,5 +1,7 @@
 <div align="center">
-<h1>简历收集</h1>
+<h1>🧑‍✈️简历收集🧑</h1>
+
+---
 
 收集全网的中英文简历，总有一款适合你。
 
@@ -21,9 +23,9 @@ Resume collection from all over the Internet, there will be one that suits you.
 [![GitHub last commit](https://img.shields.io/github/last-commit/mmmlllnnn/ResumeCollection.svg)](https://github.com/mmmlllnnn/ResumeCollection)
 <br>
 <br>
+
 ---
-<br>
-<br>
+
 <br>
 
 | 简历预览 | 下载 | 简历预览 | 下载 |
